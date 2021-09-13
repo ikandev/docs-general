@@ -13,6 +13,7 @@ Always consult the "antora.yml" file in the document to verify, it should contai
 * installation-guide  
 * technical-sheet
 * user-guide
+* whats-new
 
 
 
