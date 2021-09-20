@@ -6,14 +6,14 @@ Always consult the "antora.yml" file in the document to verify, it should contai
 
 **Documents in this repository**
 
-* alm-reports	
-* data-model 
-* demo-installation-guide  
-* getting-started     	      
-* installation-guide  
-* technical-sheet
-* user-guide
-* whats-new
+* alm-reports 5.8
+* data-model 5.8
+* demo-installation-guide 5.8
+* getting-started 5.8     	      
+* installation-guide 5.8  
+* technical-sheet 5.8
+* user-guide 5.9 (in progress)
+* whats-new 5.8
 
 
 
