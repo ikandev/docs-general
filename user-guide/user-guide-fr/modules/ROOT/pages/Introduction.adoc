@@ -6,7 +6,12 @@
 
 
 [[_projadm_introduction]]
-= Guide de l’Utilisateur: Introduction 
+ifdef::backend-pdf[]
+= Introduction
+endif::[]
+ifdef::backend-html5[]
+= Guide de l’Utilisateur: Introduction  
+endif::[]
 (((IKAN ALM ,Introduction))) 
 
 IKAN ALM offre une plateforme unique d`'__Application
